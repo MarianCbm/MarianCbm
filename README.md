@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarianCbm
-- 👀 I’m interested in learning programming skillz.
+- 👀 I’m interested in learning programming skills.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
